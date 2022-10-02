@@ -1,5 +1,4 @@
 //Approach 3: Dynamic Programming
-//https://ithelp.ithome.com.tw/articles/10215365
 //Runtime: 924 ms, faster than 6.44% of C++ online submissions for Longest Palindromic Substring.
 //Memory Usage: 24.3 MB, less than 21.38% of C++ online submissions for Longest Palindromic Substring.
 //time: O(N^2), space: O(N^2)
@@ -65,7 +64,6 @@ public:
 };
 
 //Approach 1: Longest Common Substring
-//https://www.geeksforgeeks.org/longest-common-substring-dp-29/
 //Runtime: 664 ms, faster than 10.25% of C++ online submissions for Longest Palindromic Substring.
 //Memory Usage: 191.6 MB, less than 5.51% of C++ online submissions for Longest Palindromic Substring.
 //time: O(N^2), space: O(N^2)
@@ -182,7 +180,6 @@ public:
 };
 
 //Approach 5: Manacher's Algorithm
-//https://www.youtube.com/watch?v=nbTSfrEfo6M&feature=emb_logo
 //Runtime: 8 ms, faster than 94.20% of C++ online submissions for Longest Palindromic Substring.
 //Memory Usage: 7.6 MB, less than 100.00% of C++ online submissions for Longest Palindromic Substring.
 //time: O(n), space: O(n)
